@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I am replacing this image to a better one.
 
-![luchadortocat](https://octodex.github.com/images/luchadortocat.png)
+![luchadortocat](https://octodex.github.com/images/bear-cavalry.png)
 {: .center}

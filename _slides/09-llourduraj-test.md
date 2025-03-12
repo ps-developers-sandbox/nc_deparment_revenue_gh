@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to Lawrence slide deck!"
 ---
 
-Lawrence - nothing interesting to show!
+A new me!
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
+![dodgetocat](https://octodex.github.com/images/Terracottocat_Single.png)
 {: .center}

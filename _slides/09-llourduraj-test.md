@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Lawrence slide deck!"
 ---
 
-Caption here
+A new me!
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
+![dodgetocat](https://octodex.github.com/images/Terracottocat_Single.png)
 {: .center}
